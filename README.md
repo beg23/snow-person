@@ -1,1 +1,2 @@
-# snow-person
+# Snow Person
+Contains a snow person webpage.
